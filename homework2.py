@@ -68,6 +68,6 @@ x = my_func()
 # record instance, and then prints whether or not the two people have the
 # same kind of vaccine or not.
 #
-# A function named "all_data", which takes any number of these instances and 
-# returns a simple list of all of their data 
+# A function named "all_data", which takes a container holding any number of these 
+# instances and returns a simple list of all of their data 
 # (e.g. [name, vaccine, doses, covid], [...])
