@@ -1,11 +1,11 @@
 # PPHA 30535
-# Spring 2022
+# Spring 2023
 # Homework 2
 
 # YOUR CANVAS NAME HERE
 # YOUR GITHUB USER NAME HERE
 
-# Due date: Sunday April 17th before midnight
+# Due date: Sunday April 9th before midnight
 # Write your answers in the space between the questions, and commit/push only 
 # this file to your repo. Note that there can be a difference between giving a
 # "minimally" right answer, and a really good answer, so it can pay to put 
@@ -55,7 +55,7 @@ x = my_func()
 # have had, one for how many doses they've had, and one for whether they've
 # ever had COVID.  Then create instances for four people:
 #
-# Aaron, Moderna, 1, False
+# Aaron, Moderna, 3, False
 # Ashu, Pfizer, 2, False
 # Alison, none, 0, True
 # Asma, Pfizer, 1, True
